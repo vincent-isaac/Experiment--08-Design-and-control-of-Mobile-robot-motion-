@@ -98,4 +98,17 @@ void loop() {
   delay(1000);
 }
  ```
+ 
+ ### OUTPUT:
+ ![WhatsApp Image 2022-06-18 at 8 43 18 AM](https://user-images.githubusercontent.com/75234588/174420845-5fdcea04-2d3a-48a0-8d25-a3883bb584f5.jpeg)
+
+
+
+
+![WhatsApp Image 2022-06-18 at 8 43 17 AM (1)](https://user-images.githubusercontent.com/75234588/174420846-d5c30a82-d192-4ae6-835a-d53dfbc5a0e8.jpeg)
+
+
+
+![WhatsApp Image 2022-06-18 at 8 43 17 AM](https://user-images.githubusercontent.com/75234588/174420847-9f413c60-6608-4846-b902-51ef93cee13b.jpeg)
+
 ### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
